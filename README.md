@@ -1,0 +1,1 @@
+# ADF-Truncate-Load-Pipeline
